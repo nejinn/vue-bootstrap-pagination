@@ -32,6 +32,9 @@ getCurrentPage | 获取分页当前页码 |
 
 ## 效果图
 
+![效果图](https://github.com/nejinn/vue-bootstrap-pagination/blob/master/pg.gif)
+
+
 ## Project setup
 ```
 npm install
